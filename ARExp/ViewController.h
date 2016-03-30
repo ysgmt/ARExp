@@ -7,9 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+// #import <MetaioSDK/ARELViewController.h>
+#import <MetaioSDK/MetaioSDKViewController.h>
 
-@interface ViewController : UIViewController
-
+// @interface ViewController : ARELViewController
+@interface ViewController : MetaioSDKViewController
 
 @end
 
